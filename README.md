@@ -10,8 +10,8 @@ Este proyecto es una interfaz frontend desarrollada con **Next.js**, **React** y
 1. **Clonar el repositorio:**
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/NotBunBun/prueba-fortex.git
+cd prueba-fortex
 ```
 
 2. **Instalar dependencias:** Si existen conflictos de peer dependencies, puedes usar:
